@@ -5,6 +5,8 @@ function Footer() {
   return (
     <footer>
       <p>Copyright ⓒ {year}</p>
+      <p>Built by Srđan Maljukan</p>
+      <p>With help of Dr. Angela Yu and Web Development Bootcamp course</p>
     </footer>
   );
 }
