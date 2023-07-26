@@ -4,7 +4,7 @@ import EditNoteIcon from '@mui/icons-material/EditNote';
 function Header() {
   return (
     <header>
-      <h1><EditNoteIcon /> NoteIT</h1>
+      <h1><EditNoteIcon />PostIT-NoteIT</h1>
     </header>
   );
 }
