@@ -34,7 +34,7 @@ function CreateArea(props) {
     }
 
     return (
-        <div>
+        <div className="create-area">
             <form className="create-note">
                 {isClicked ? <input
                     name="title"
